@@ -1,4 +1,4 @@
-Cart App - Docker Setup 
+## Cart App - Docker Setup 
 
 El propósito de este repositorio es el de proveer el código y los archivos necesarios para la creación de una aplicación simple con Docker que sea capaz de implementar un carrito de compras y tenga una interfaz intuitiva, este repositorio puede ser util ya que se puede usar como plantilla al momento de crear otros proyectos ya sea relacionados a la temática o no, o que solo tengan una funcionalidad similar
 
