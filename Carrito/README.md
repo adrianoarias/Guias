@@ -18,7 +18,7 @@ docker run -d -p 8080:8080 --name cart-app-container cart-app
 Los archivos de Docker integrados nos ayudan a configurar de manera adecuada la creación de nuestra imagen y la ejecución de nuestro proyecto.
 
 -d: Ejecuta el contenedor en modo de fondo (detached mode).
--p 5000:5000: Mapea el puerto 5000 del contenedor al puerto 5000 de la máquina host.
+-p 8080:8080: Mapea el puerto 5000 del contenedor al puerto 5000 de la máquina host.
 --name 
 cart-app: El nombre de la imagen Docker que creaste en el paso anterior.
 
