@@ -31,7 +31,7 @@ Los archivos de Docker integrados nos ayudan a configurar de manera adecuada la 
 -d: Ejecuta el contenedor en modo de fondo (detached mode).
 -p 8080:8080: Mapea el puerto 8080 del contenedor al puerto 8080 de la máquina host.
 --name 
-cart-app: El nombre de la imagen Docker que creaste en el paso anterior.
+productos: El nombre de la imagen Docker que creaste en el paso anterior.
 
 Accede al puerto. 
 
@@ -39,12 +39,12 @@ Puedes verificar que tu contenedor está ejecutándose con el siguiente comando:
 docker ps
 
 Para detener el contenedor, ejecuta el siguiente comando:
-docker stop cart-app-container
+docker stop productos-container
 
 Otros comandos útiles:
 
 Ver los logs del contenedor:
-docker logs cart-app-container
+docker logs productos-container
 
 Otra forma de trabajar con Docker es al momento de crear la imagen acceder a ella desde la interfaz gráfica de Docker directo desde el programa a través del cual puedes correr las imagenes y crear el contenedor directamente de manera facil e intuitiva especificando el puerto, el nombre entre otras cosas. 
 
