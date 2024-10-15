@@ -3,7 +3,7 @@
 El propósito de este repositorio es el de proveer el código y los archivos necesarios para la creación de una aplicación simple con Docker que sea capaz de implementar un menú con un catálogo de productos con una interfaz intuitiva, y con la capacidad de seleccionar categorías o navegar entre pestañas etc. este repositorio puede ser util ya que se puede usar como plantilla al momento de crear otros proyectos ya sea relacionados a la temática o no, o que solo tengan una funcionalidad similar
 
 
-Esta parte contiene instrucciones para crear y ejecutar la aplicación llamada cart-app usando Docker.
+Esta parte contiene instrucciones para crear y ejecutar la aplicación llamada productos usando Docker.
 
 ### Instalación de dependencias de node.
 ```
